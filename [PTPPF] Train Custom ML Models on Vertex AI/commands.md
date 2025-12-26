@@ -4,7 +4,7 @@ This guide provides the full sequence of commands to complete the lab: [PTPPF]: 
 
 ---
 
-### Command 1 — Create BigQuery Dataset
+### Command 1 — Create Cloud Storage Bucket
 
 This command creates a new cloud storage bucket in the us-central1 region. **Change bucket name and region according to your lab.**
 
